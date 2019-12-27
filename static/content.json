@@ -83,5 +83,17 @@
     "path": "/src/php",
     "name": "php",
     "type": "directory"
+  },
+  {
+    "content": [
+      {
+        "name": "about.md",
+        "path": "/src/XYZs/about.md",
+        "type": "file"
+      }
+    ],
+    "path": "/src/XYZs",
+    "name": "XYZs",
+    "type": "directory"
   }
 ]
