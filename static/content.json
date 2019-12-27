@@ -28,15 +28,26 @@
   {
     "content": [
       {
+        "content": [],
+        "path": "/src/node/core",
+        "name": "core",
+        "type": "directory"
+      },
+      {
         "content": [
           {
-            "name": "project2md.md",
-            "path": "/src/node/core/project2md.md",
+            "name": "create_typescript_scaffolding.md",
+            "path": "/src/node/express/create_typescript_scaffolding.md",
+            "type": "file"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "path": "/src/node/express/typescript_based_validator.md",
             "type": "file"
           }
         ],
-        "path": "/src/node/core",
-        "name": "core",
+        "path": "/src/node/express",
+        "name": "express",
         "type": "directory"
       }
     ],
@@ -56,6 +67,11 @@
           {
             "name": "create_new_project.md",
             "path": "/src/php/laravel/create_new_project.md",
+            "type": "file"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "path": "/src/php/laravel/setting_custom_headers.md",
             "type": "file"
           }
         ],
