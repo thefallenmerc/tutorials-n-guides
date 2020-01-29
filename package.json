@@ -4,7 +4,7 @@
   "description": "",
   "main": "scanner.js",
   "scripts": {
-    "dev": "nodemon --watch static/src -e md && exec node start scanner.js",
+    "dev": "nodemon --watch ./static/src -e md && exec node scanner.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "push": "node scanner.js --scanonly && git fetch && git add . && git commit -m \"automatic updated push\" && git push"
   },

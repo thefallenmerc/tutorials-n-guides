@@ -2,6 +2,33 @@
   {
     "content": [
       {
+        "name": "1_-_Smartwork_over_hardwork.md",
+        "path": "/src/codeofconduct/1_-_Smartwork_over_hardwork.md",
+        "type": "file"
+      },
+      {
+        "name": "2_-_Get_your_life_in_order.md",
+        "path": "/src/codeofconduct/2_-_Get_your_life_in_order.md",
+        "type": "file"
+      },
+      {
+        "name": "3_-_Treat_yourself_like_a_KING.md",
+        "path": "/src/codeofconduct/3_-_Treat_yourself_like_a_KING.md",
+        "type": "file"
+      },
+      {
+        "name": "4_-_Stop_Chasing_Girls.md",
+        "path": "/src/codeofconduct/4_-_Stop_Chasing_Girls.md",
+        "type": "file"
+      }
+    ],
+    "path": "/src/codeofconduct",
+    "name": "codeofconduct",
+    "type": "directory"
+  },
+  {
+    "content": [
+      {
         "content": [
           {
             "content": [
@@ -28,7 +55,53 @@
   {
     "content": [
       {
-        "content": [],
+        "content": [
+          {
+            "name": "add_custom_service_worker.md",
+            "path": "/src/javascript/react/add_custom_service_worker.md",
+            "type": "file"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "path": "/src/javascript/react/add_global_event_listener.md",
+            "type": "file"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "path": "/src/javascript/react/configure_tailwind.md",
+            "type": "file"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "path": "/src/javascript/react/integrate_onesignal_sdk.md",
+            "type": "file"
+          }
+        ],
+        "path": "/src/javascript/react",
+        "name": "react",
+        "type": "directory"
+      }
+    ],
+    "path": "/src/javascript",
+    "name": "javascript",
+    "type": "directory"
+  },
+  {
+    "content": [],
+    "path": "/src/journal",
+    "name": "journal",
+    "type": "directory"
+  },
+  {
+    "content": [
+      {
+        "content": [
+          {
+            "name": "add_cors_header.md",
+            "path": "/src/node/core/add_cors_header.md",
+            "type": "file"
+          }
+        ],
         "path": "/src/node/core",
         "name": "core",
         "type": "directory"
@@ -65,6 +138,11 @@
             "type": "file"
           },
           {
+            "name": "adding_new_custom_route_file.md",
+            "path": "/src/php/laravel/adding_new_custom_route_file.md",
+            "type": "file"
+          },
+          {
             "name": "create_new_project.md",
             "path": "/src/php/laravel/create_new_project.md",
             "type": "file"
@@ -82,6 +160,30 @@
     ],
     "path": "/src/php",
     "name": "php",
+    "type": "directory"
+  },
+  {
+    "content": [
+      {
+        "content": [
+          {
+            "name": "handle_online_offline_event.md",
+            "path": "/src/Web/Javascript/handle_online_offline_event.md",
+            "type": "file"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "path": "/src/Web/Javascript/request_media_permissions.md",
+            "type": "file"
+          }
+        ],
+        "path": "/src/Web/Javascript",
+        "name": "Javascript",
+        "type": "directory"
+      }
+    ],
+    "path": "/src/Web",
+    "name": "Web",
     "type": "directory"
   },
   {
