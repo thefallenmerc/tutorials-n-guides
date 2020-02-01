@@ -143,6 +143,11 @@
             "type": "file"
           },
           {
+            "name": "authentication_with_laravel.md",
+            "path": "/src/php/laravel/authentication_with_laravel.md",
+            "type": "file"
+          },
+          {
             "name": "create_new_project.md",
             "path": "/src/php/laravel/create_new_project.md",
             "type": "file"
@@ -164,6 +169,18 @@
   },
   {
     "content": [
+      {
+        "content": [
+          {
+            "name": "make_a_pwa.md",
+            "path": "/src/Web/html/make_a_pwa.md",
+            "type": "file"
+          }
+        ],
+        "path": "/src/Web/html",
+        "name": "html",
+        "type": "directory"
+      },
       {
         "content": [
           {
