@@ -6,7 +6,7 @@
 
 3.create a file `src/styles/tailwind.src.css` and write - 
 
-``` css
+```css
 @tailwind preflight;
 @tailwind components;
 @tailwind utilities;
