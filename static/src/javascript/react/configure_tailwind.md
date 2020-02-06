@@ -2,7 +2,7 @@
 
 1. `npm i tailwindcss --save-dev` 
 
-2. ` ./node_modules/.bin/tailwind init tailwind.js` 
+2. ` ./node_modules/.bin/tailwind init tailwind.config.js` 
 
 3.create a file `src/styles/tailwind.src.css` and write - 
 
