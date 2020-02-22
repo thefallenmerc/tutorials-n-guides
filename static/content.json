@@ -1,218 +1,3003 @@
-[
-  {
-    "content": [
-      {
-        "name": "1_-_Smartwork_over_hardwork.md",
-        "path": "/src/codeofconduct/1_-_Smartwork_over_hardwork.md",
-        "type": "file"
-      },
-      {
-        "name": "2_-_Get_your_life_in_order.md",
-        "path": "/src/codeofconduct/2_-_Get_your_life_in_order.md",
-        "type": "file"
-      },
-      {
-        "name": "3_-_Treat_yourself_like_a_KING.md",
-        "path": "/src/codeofconduct/3_-_Treat_yourself_like_a_KING.md",
-        "type": "file"
-      },
-      {
-        "name": "4_-_Stop_Chasing_Girls.md",
-        "path": "/src/codeofconduct/4_-_Stop_Chasing_Girls.md",
-        "type": "file"
-      }
-    ],
-    "path": "/src/codeofconduct",
-    "name": "codeofconduct",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "content": [
+{
+  "structure": [
+    {
+      "name": "codeofconduct",
+      "type": "directory",
+      "path": "/codeofconduct",
+      "content": {
+        "structure": [
           {
-            "content": [
-              {
-                "name": "empty_widget.md",
-                "path": "/src/dart/flutter/others/empty_widget.md",
-                "type": "file"
-              }
-            ],
-            "path": "/src/dart/flutter/others",
-            "name": "others",
-            "type": "directory"
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
           }
         ],
-        "path": "/src/dart/flutter",
-        "name": "flutter",
-        "type": "directory"
-      }
-    ],
-    "path": "/src/dart",
-    "name": "dart",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "content": [
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
           {
             "name": "add_custom_service_worker.md",
-            "path": "/src/javascript/react/add_custom_service_worker.md",
-            "type": "file"
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
           },
           {
             "name": "add_global_event_listener.md",
-            "path": "/src/javascript/react/add_global_event_listener.md",
-            "type": "file"
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
           },
           {
             "name": "configure_tailwind.md",
-            "path": "/src/javascript/react/configure_tailwind.md",
-            "type": "file"
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
           },
           {
             "name": "integrate_onesignal_sdk.md",
-            "path": "/src/javascript/react/integrate_onesignal_sdk.md",
-            "type": "file"
-          }
-        ],
-        "path": "/src/javascript/react",
-        "name": "react",
-        "type": "directory"
-      }
-    ],
-    "path": "/src/javascript",
-    "name": "javascript",
-    "type": "directory"
-  },
-  {
-    "content": [],
-    "path": "/src/journal",
-    "name": "journal",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "content": [
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
           {
             "name": "add_cors_header.md",
-            "path": "/src/node/core/add_cors_header.md",
-            "type": "file"
-          }
-        ],
-        "path": "/src/node/core",
-        "name": "core",
-        "type": "directory"
-      },
-      {
-        "content": [
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
           {
             "name": "create_typescript_scaffolding.md",
-            "path": "/src/node/express/create_typescript_scaffolding.md",
-            "type": "file"
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
           },
           {
             "name": "typescript_based_validator.md",
-            "path": "/src/node/express/typescript_based_validator.md",
-            "type": "file"
-          }
-        ],
-        "path": "/src/node/express",
-        "name": "express",
-        "type": "directory"
-      }
-    ],
-    "path": "/src/node",
-    "name": "node",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "content": [
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
           {
             "name": "accessing_something.md",
-            "path": "/src/php/laravel/accessing_something.md",
-            "type": "file"
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
           },
           {
             "name": "adding_new_custom_route_file.md",
-            "path": "/src/php/laravel/adding_new_custom_route_file.md",
-            "type": "file"
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
           },
           {
             "name": "authentication_with_laravel.md",
-            "path": "/src/php/laravel/authentication_with_laravel.md",
-            "type": "file"
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
           },
           {
             "name": "create_new_project.md",
-            "path": "/src/php/laravel/create_new_project.md",
-            "type": "file"
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
           },
           {
             "name": "setting_custom_headers.md",
-            "path": "/src/php/laravel/setting_custom_headers.md",
-            "type": "file"
-          }
-        ],
-        "path": "/src/php/laravel",
-        "name": "laravel",
-        "type": "directory"
-      }
-    ],
-    "path": "/src/php",
-    "name": "php",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "content": [
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
           {
             "name": "make_a_pwa.md",
-            "path": "/src/Web/html/make_a_pwa.md",
-            "type": "file"
-          }
-        ],
-        "path": "/src/Web/html",
-        "name": "html",
-        "type": "directory"
-      },
-      {
-        "content": [
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
           {
             "name": "handle_online_offline_event.md",
-            "path": "/src/Web/Javascript/handle_online_offline_event.md",
-            "type": "file"
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
           },
           {
             "name": "request_media_permissions.md",
-            "path": "/src/Web/Javascript/request_media_permissions.md",
-            "type": "file"
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dart",
+      "type": "directory",
+      "path": "/dart",
+      "content": {
+        "structure": [
+          {
+            "name": "flutter",
+            "type": "directory",
+            "path": "/dart/flutter",
+            "content": {
+              "structure": [
+                {
+                  "name": "others",
+                  "type": "directory",
+                  "path": "/dart/flutter/others",
+                  "content": {
+                    "structure": [
+                      {
+                        "name": "empty_widget.md",
+                        "type": "file",
+                        "path": "/dart/flutter/others/empty_widget.md"
+                      }
+                    ],
+                    "flat": [
+                      {
+                        "name": "1_-_Smartwork_over_hardwork.md",
+                        "type": "file",
+                        "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                      },
+                      {
+                        "name": "2_-_Get_your_life_in_order.md",
+                        "type": "file",
+                        "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                      },
+                      {
+                        "name": "3_-_Treat_yourself_like_a_KING.md",
+                        "type": "file",
+                        "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                      },
+                      {
+                        "name": "4_-_Stop_Chasing_Girls.md",
+                        "type": "file",
+                        "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                      },
+                      {
+                        "name": "empty_widget.md",
+                        "type": "file",
+                        "path": "/dart/flutter/others/empty_widget.md"
+                      },
+                      {
+                        "name": "add_custom_service_worker.md",
+                        "type": "file",
+                        "path": "/javascript/react/add_custom_service_worker.md"
+                      },
+                      {
+                        "name": "add_github_pages.md",
+                        "type": "file",
+                        "path": "/javascript/react/add_github_pages.md"
+                      },
+                      {
+                        "name": "add_global_event_listener.md",
+                        "type": "file",
+                        "path": "/javascript/react/add_global_event_listener.md"
+                      },
+                      {
+                        "name": "configure_tailwind.md",
+                        "type": "file",
+                        "path": "/javascript/react/configure_tailwind.md"
+                      },
+                      {
+                        "name": "integrate_onesignal_sdk.md",
+                        "type": "file",
+                        "path": "/javascript/react/integrate_onesignal_sdk.md"
+                      },
+                      {
+                        "name": "setting_redirection_programmatically.md",
+                        "type": "file",
+                        "path": "/javascript/react/setting_redirection_programmatically.md"
+                      },
+                      {
+                        "name": "using_redux_simplest.md",
+                        "type": "file",
+                        "path": "/javascript/react/using_redux_simplest.md"
+                      },
+                      {
+                        "name": "add_cors_header.md",
+                        "type": "file",
+                        "path": "/node/core/add_cors_header.md"
+                      },
+                      {
+                        "name": "create_typescript_scaffolding.md",
+                        "type": "file",
+                        "path": "/node/express/create_typescript_scaffolding.md"
+                      },
+                      {
+                        "name": "typescript_based_validator.md",
+                        "type": "file",
+                        "path": "/node/express/typescript_based_validator.md"
+                      },
+                      {
+                        "name": "accessing_something.md",
+                        "type": "file",
+                        "path": "/php/laravel/accessing_something.md"
+                      },
+                      {
+                        "name": "adding_new_custom_route_file.md",
+                        "type": "file",
+                        "path": "/php/laravel/adding_new_custom_route_file.md"
+                      },
+                      {
+                        "name": "allowing_cors.md",
+                        "type": "file",
+                        "path": "/php/laravel/allowing_cors.md"
+                      },
+                      {
+                        "name": "authentication_with_laravel.md",
+                        "type": "file",
+                        "path": "/php/laravel/authentication_with_laravel.md"
+                      },
+                      {
+                        "name": "create_new_project.md",
+                        "type": "file",
+                        "path": "/php/laravel/create_new_project.md"
+                      },
+                      {
+                        "name": "json_response_on_404.md",
+                        "type": "file",
+                        "path": "/php/laravel/json_response_on_404.md"
+                      },
+                      {
+                        "name": "setting_custom_headers.md",
+                        "type": "file",
+                        "path": "/php/laravel/setting_custom_headers.md"
+                      },
+                      {
+                        "name": "htaccess_for_spa.md",
+                        "type": "file",
+                        "path": "/servers/apache/htaccess_for_spa.md"
+                      },
+                      {
+                        "name": "redirect_to_https.md",
+                        "type": "file",
+                        "path": "/servers/apache/redirect_to_https.md"
+                      },
+                      {
+                        "name": "make_a_pwa.md",
+                        "type": "file",
+                        "path": "/Web/html/make_a_pwa.md"
+                      },
+                      {
+                        "name": "handle_online_offline_event.md",
+                        "type": "file",
+                        "path": "/Web/Javascript/handle_online_offline_event.md"
+                      },
+                      {
+                        "name": "request_media_permissions.md",
+                        "type": "file",
+                        "path": "/Web/Javascript/request_media_permissions.md"
+                      },
+                      {
+                        "name": "about.md",
+                        "type": "file",
+                        "path": "/XYZs/about.md"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
           }
         ],
-        "path": "/src/Web/Javascript",
-        "name": "Javascript",
-        "type": "directory"
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
       }
-    ],
-    "path": "/src/Web",
-    "name": "Web",
-    "type": "directory"
-  },
-  {
-    "content": [
-      {
-        "name": "about.md",
-        "path": "/src/XYZs/about.md",
-        "type": "file"
+    },
+    {
+      "name": "javascript",
+      "type": "directory",
+      "path": "/javascript",
+      "content": {
+        "structure": [
+          {
+            "name": "react",
+            "type": "directory",
+            "path": "/javascript/react",
+            "content": {
+              "structure": [
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
       }
-    ],
-    "path": "/src/XYZs",
-    "name": "XYZs",
-    "type": "directory"
-  }
-]
+    },
+    {
+      "name": "journal",
+      "type": "directory",
+      "path": "/journal",
+      "content": {
+        "structure": [],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "node",
+      "type": "directory",
+      "path": "/node",
+      "content": {
+        "structure": [
+          {
+            "name": "core",
+            "type": "directory",
+            "path": "/node/core",
+            "content": {
+              "structure": [
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          },
+          {
+            "name": "express",
+            "type": "directory",
+            "path": "/node/express",
+            "content": {
+              "structure": [
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "php",
+      "type": "directory",
+      "path": "/php",
+      "content": {
+        "structure": [
+          {
+            "name": "laravel",
+            "type": "directory",
+            "path": "/php/laravel",
+            "content": {
+              "structure": [
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "servers",
+      "type": "directory",
+      "path": "/servers",
+      "content": {
+        "structure": [
+          {
+            "name": "apache",
+            "type": "directory",
+            "path": "/servers/apache",
+            "content": {
+              "structure": [
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Web",
+      "type": "directory",
+      "path": "/Web",
+      "content": {
+        "structure": [
+          {
+            "name": "html",
+            "type": "directory",
+            "path": "/Web/html",
+            "content": {
+              "structure": [
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Javascript",
+            "type": "directory",
+            "path": "/Web/Javascript",
+            "content": {
+              "structure": [
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                }
+              ],
+              "flat": [
+                {
+                  "name": "1_-_Smartwork_over_hardwork.md",
+                  "type": "file",
+                  "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+                },
+                {
+                  "name": "2_-_Get_your_life_in_order.md",
+                  "type": "file",
+                  "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+                },
+                {
+                  "name": "3_-_Treat_yourself_like_a_KING.md",
+                  "type": "file",
+                  "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+                },
+                {
+                  "name": "4_-_Stop_Chasing_Girls.md",
+                  "type": "file",
+                  "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+                },
+                {
+                  "name": "empty_widget.md",
+                  "type": "file",
+                  "path": "/dart/flutter/others/empty_widget.md"
+                },
+                {
+                  "name": "add_custom_service_worker.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_custom_service_worker.md"
+                },
+                {
+                  "name": "add_github_pages.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_github_pages.md"
+                },
+                {
+                  "name": "add_global_event_listener.md",
+                  "type": "file",
+                  "path": "/javascript/react/add_global_event_listener.md"
+                },
+                {
+                  "name": "configure_tailwind.md",
+                  "type": "file",
+                  "path": "/javascript/react/configure_tailwind.md"
+                },
+                {
+                  "name": "integrate_onesignal_sdk.md",
+                  "type": "file",
+                  "path": "/javascript/react/integrate_onesignal_sdk.md"
+                },
+                {
+                  "name": "setting_redirection_programmatically.md",
+                  "type": "file",
+                  "path": "/javascript/react/setting_redirection_programmatically.md"
+                },
+                {
+                  "name": "using_redux_simplest.md",
+                  "type": "file",
+                  "path": "/javascript/react/using_redux_simplest.md"
+                },
+                {
+                  "name": "add_cors_header.md",
+                  "type": "file",
+                  "path": "/node/core/add_cors_header.md"
+                },
+                {
+                  "name": "create_typescript_scaffolding.md",
+                  "type": "file",
+                  "path": "/node/express/create_typescript_scaffolding.md"
+                },
+                {
+                  "name": "typescript_based_validator.md",
+                  "type": "file",
+                  "path": "/node/express/typescript_based_validator.md"
+                },
+                {
+                  "name": "accessing_something.md",
+                  "type": "file",
+                  "path": "/php/laravel/accessing_something.md"
+                },
+                {
+                  "name": "adding_new_custom_route_file.md",
+                  "type": "file",
+                  "path": "/php/laravel/adding_new_custom_route_file.md"
+                },
+                {
+                  "name": "allowing_cors.md",
+                  "type": "file",
+                  "path": "/php/laravel/allowing_cors.md"
+                },
+                {
+                  "name": "authentication_with_laravel.md",
+                  "type": "file",
+                  "path": "/php/laravel/authentication_with_laravel.md"
+                },
+                {
+                  "name": "create_new_project.md",
+                  "type": "file",
+                  "path": "/php/laravel/create_new_project.md"
+                },
+                {
+                  "name": "json_response_on_404.md",
+                  "type": "file",
+                  "path": "/php/laravel/json_response_on_404.md"
+                },
+                {
+                  "name": "setting_custom_headers.md",
+                  "type": "file",
+                  "path": "/php/laravel/setting_custom_headers.md"
+                },
+                {
+                  "name": "htaccess_for_spa.md",
+                  "type": "file",
+                  "path": "/servers/apache/htaccess_for_spa.md"
+                },
+                {
+                  "name": "redirect_to_https.md",
+                  "type": "file",
+                  "path": "/servers/apache/redirect_to_https.md"
+                },
+                {
+                  "name": "make_a_pwa.md",
+                  "type": "file",
+                  "path": "/Web/html/make_a_pwa.md"
+                },
+                {
+                  "name": "handle_online_offline_event.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/handle_online_offline_event.md"
+                },
+                {
+                  "name": "request_media_permissions.md",
+                  "type": "file",
+                  "path": "/Web/Javascript/request_media_permissions.md"
+                },
+                {
+                  "name": "about.md",
+                  "type": "file",
+                  "path": "/XYZs/about.md"
+                }
+              ]
+            }
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XYZs",
+      "type": "directory",
+      "path": "/XYZs",
+      "content": {
+        "structure": [
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ],
+        "flat": [
+          {
+            "name": "1_-_Smartwork_over_hardwork.md",
+            "type": "file",
+            "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+          },
+          {
+            "name": "2_-_Get_your_life_in_order.md",
+            "type": "file",
+            "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+          },
+          {
+            "name": "3_-_Treat_yourself_like_a_KING.md",
+            "type": "file",
+            "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+          },
+          {
+            "name": "4_-_Stop_Chasing_Girls.md",
+            "type": "file",
+            "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+          },
+          {
+            "name": "empty_widget.md",
+            "type": "file",
+            "path": "/dart/flutter/others/empty_widget.md"
+          },
+          {
+            "name": "add_custom_service_worker.md",
+            "type": "file",
+            "path": "/javascript/react/add_custom_service_worker.md"
+          },
+          {
+            "name": "add_github_pages.md",
+            "type": "file",
+            "path": "/javascript/react/add_github_pages.md"
+          },
+          {
+            "name": "add_global_event_listener.md",
+            "type": "file",
+            "path": "/javascript/react/add_global_event_listener.md"
+          },
+          {
+            "name": "configure_tailwind.md",
+            "type": "file",
+            "path": "/javascript/react/configure_tailwind.md"
+          },
+          {
+            "name": "integrate_onesignal_sdk.md",
+            "type": "file",
+            "path": "/javascript/react/integrate_onesignal_sdk.md"
+          },
+          {
+            "name": "setting_redirection_programmatically.md",
+            "type": "file",
+            "path": "/javascript/react/setting_redirection_programmatically.md"
+          },
+          {
+            "name": "using_redux_simplest.md",
+            "type": "file",
+            "path": "/javascript/react/using_redux_simplest.md"
+          },
+          {
+            "name": "add_cors_header.md",
+            "type": "file",
+            "path": "/node/core/add_cors_header.md"
+          },
+          {
+            "name": "create_typescript_scaffolding.md",
+            "type": "file",
+            "path": "/node/express/create_typescript_scaffolding.md"
+          },
+          {
+            "name": "typescript_based_validator.md",
+            "type": "file",
+            "path": "/node/express/typescript_based_validator.md"
+          },
+          {
+            "name": "accessing_something.md",
+            "type": "file",
+            "path": "/php/laravel/accessing_something.md"
+          },
+          {
+            "name": "adding_new_custom_route_file.md",
+            "type": "file",
+            "path": "/php/laravel/adding_new_custom_route_file.md"
+          },
+          {
+            "name": "allowing_cors.md",
+            "type": "file",
+            "path": "/php/laravel/allowing_cors.md"
+          },
+          {
+            "name": "authentication_with_laravel.md",
+            "type": "file",
+            "path": "/php/laravel/authentication_with_laravel.md"
+          },
+          {
+            "name": "create_new_project.md",
+            "type": "file",
+            "path": "/php/laravel/create_new_project.md"
+          },
+          {
+            "name": "json_response_on_404.md",
+            "type": "file",
+            "path": "/php/laravel/json_response_on_404.md"
+          },
+          {
+            "name": "setting_custom_headers.md",
+            "type": "file",
+            "path": "/php/laravel/setting_custom_headers.md"
+          },
+          {
+            "name": "htaccess_for_spa.md",
+            "type": "file",
+            "path": "/servers/apache/htaccess_for_spa.md"
+          },
+          {
+            "name": "redirect_to_https.md",
+            "type": "file",
+            "path": "/servers/apache/redirect_to_https.md"
+          },
+          {
+            "name": "make_a_pwa.md",
+            "type": "file",
+            "path": "/Web/html/make_a_pwa.md"
+          },
+          {
+            "name": "handle_online_offline_event.md",
+            "type": "file",
+            "path": "/Web/Javascript/handle_online_offline_event.md"
+          },
+          {
+            "name": "request_media_permissions.md",
+            "type": "file",
+            "path": "/Web/Javascript/request_media_permissions.md"
+          },
+          {
+            "name": "about.md",
+            "type": "file",
+            "path": "/XYZs/about.md"
+          }
+        ]
+      }
+    }
+  ],
+  "flat": [
+    {
+      "name": "1_-_Smartwork_over_hardwork.md",
+      "type": "file",
+      "path": "/codeofconduct/1_-_Smartwork_over_hardwork.md"
+    },
+    {
+      "name": "2_-_Get_your_life_in_order.md",
+      "type": "file",
+      "path": "/codeofconduct/2_-_Get_your_life_in_order.md"
+    },
+    {
+      "name": "3_-_Treat_yourself_like_a_KING.md",
+      "type": "file",
+      "path": "/codeofconduct/3_-_Treat_yourself_like_a_KING.md"
+    },
+    {
+      "name": "4_-_Stop_Chasing_Girls.md",
+      "type": "file",
+      "path": "/codeofconduct/4_-_Stop_Chasing_Girls.md"
+    },
+    {
+      "name": "empty_widget.md",
+      "type": "file",
+      "path": "/dart/flutter/others/empty_widget.md"
+    },
+    {
+      "name": "add_custom_service_worker.md",
+      "type": "file",
+      "path": "/javascript/react/add_custom_service_worker.md"
+    },
+    {
+      "name": "add_github_pages.md",
+      "type": "file",
+      "path": "/javascript/react/add_github_pages.md"
+    },
+    {
+      "name": "add_global_event_listener.md",
+      "type": "file",
+      "path": "/javascript/react/add_global_event_listener.md"
+    },
+    {
+      "name": "configure_tailwind.md",
+      "type": "file",
+      "path": "/javascript/react/configure_tailwind.md"
+    },
+    {
+      "name": "integrate_onesignal_sdk.md",
+      "type": "file",
+      "path": "/javascript/react/integrate_onesignal_sdk.md"
+    },
+    {
+      "name": "setting_redirection_programmatically.md",
+      "type": "file",
+      "path": "/javascript/react/setting_redirection_programmatically.md"
+    },
+    {
+      "name": "using_redux_simplest.md",
+      "type": "file",
+      "path": "/javascript/react/using_redux_simplest.md"
+    },
+    {
+      "name": "add_cors_header.md",
+      "type": "file",
+      "path": "/node/core/add_cors_header.md"
+    },
+    {
+      "name": "create_typescript_scaffolding.md",
+      "type": "file",
+      "path": "/node/express/create_typescript_scaffolding.md"
+    },
+    {
+      "name": "typescript_based_validator.md",
+      "type": "file",
+      "path": "/node/express/typescript_based_validator.md"
+    },
+    {
+      "name": "accessing_something.md",
+      "type": "file",
+      "path": "/php/laravel/accessing_something.md"
+    },
+    {
+      "name": "adding_new_custom_route_file.md",
+      "type": "file",
+      "path": "/php/laravel/adding_new_custom_route_file.md"
+    },
+    {
+      "name": "allowing_cors.md",
+      "type": "file",
+      "path": "/php/laravel/allowing_cors.md"
+    },
+    {
+      "name": "authentication_with_laravel.md",
+      "type": "file",
+      "path": "/php/laravel/authentication_with_laravel.md"
+    },
+    {
+      "name": "create_new_project.md",
+      "type": "file",
+      "path": "/php/laravel/create_new_project.md"
+    },
+    {
+      "name": "json_response_on_404.md",
+      "type": "file",
+      "path": "/php/laravel/json_response_on_404.md"
+    },
+    {
+      "name": "setting_custom_headers.md",
+      "type": "file",
+      "path": "/php/laravel/setting_custom_headers.md"
+    },
+    {
+      "name": "htaccess_for_spa.md",
+      "type": "file",
+      "path": "/servers/apache/htaccess_for_spa.md"
+    },
+    {
+      "name": "redirect_to_https.md",
+      "type": "file",
+      "path": "/servers/apache/redirect_to_https.md"
+    },
+    {
+      "name": "make_a_pwa.md",
+      "type": "file",
+      "path": "/Web/html/make_a_pwa.md"
+    },
+    {
+      "name": "handle_online_offline_event.md",
+      "type": "file",
+      "path": "/Web/Javascript/handle_online_offline_event.md"
+    },
+    {
+      "name": "request_media_permissions.md",
+      "type": "file",
+      "path": "/Web/Javascript/request_media_permissions.md"
+    },
+    {
+      "name": "about.md",
+      "type": "file",
+      "path": "/XYZs/about.md"
+    }
+  ]
+}

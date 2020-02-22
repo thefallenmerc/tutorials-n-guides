@@ -2,6 +2,8 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 
+const scanner = require('@chaharshubhamsingh/dirscanner');
+
 const express = require('express');
 
 const app = express();
@@ -13,7 +15,7 @@ const staticDir = 'static';
 const source = path.join(__dirname, staticDir, 'src');
 
 console.log('Starting the scan...');
-fs.writeFileSync(staticDir + '/content.json', JSON.stringify(scanDirectoryRecursive(source), null, 2));
+fs.writeFileSync(staticDir + '/content.json', JSON.stringify(scanner(source), null, 2));
 console.log("Scan successful!");
 
 if (!process.argv.includes('--scanonly')) {
@@ -28,30 +30,4 @@ if (!process.argv.includes('--scanonly')) {
 
     console.log('Listening at the port: ' + port);
     console.log('Server at: http://localhost:' + port);
-}
-
-
-function scanDirectoryRecursive(route = './') {
-
-    const structure = [];
-
-    for (let item of fs.readdirSync(route)) {
-        const itemPath = path.join(route, item);
-        const itemStat = fs.lstatSync(itemPath);
-        if (itemStat.isDirectory()) {
-            structure.push({
-                content: scanDirectoryRecursive(itemPath),
-                path: itemPath.replace(path.join(__dirname, staticDir), '').replace(/\\/g, '/'),
-                name: item,
-                type: 'directory'
-            });
-        } else {
-            structure.push({
-                name: item,
-                path: itemPath.replace(path.join(__dirname, staticDir), '').replace(/\\/g, '/'),
-                type: 'file'
-            });
-        }
-    }
-    return structure;
 }
